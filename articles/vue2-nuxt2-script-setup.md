@@ -3,7 +3,7 @@ title: "Vue2 / Nuxt2 で <script setup> を使用するには unplugin-vue2-scri
 emoji: "📝"
 type: "tech"
 topics: ["vue", "nuxtjs"]
-published: false
+published: true
 ---
 
 # ターゲット
