@@ -21,7 +21,7 @@ https://github.com/antfu/unplugin-vue2-script-setup
 - Vite
 - Nuxt
 - Vue CLI
-- Webpack
+- webpack
 - Rollup
 - Jest
 - JavaScript API
