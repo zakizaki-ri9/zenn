@@ -1,5 +1,5 @@
 ---
-title: "Vue2 / Nuxt2 で <script setup> を使用するには unplugin-vue2-script-setup を導入する"
+title: "Vue 2 / Nuxt 2 で <script setup> を使用するには unplugin-vue2-script-setup を導入する"
 emoji: "📝"
 type: "tech"
 topics: ["vue", "nuxtjs"]
@@ -8,7 +8,7 @@ published: true
 
 # ターゲット
 
-Vue2 / Nuxt2 で `<script setup>` を素振り or 導入したい方
+Vue 2 / Nuxt 2 で `<script setup>` を素振り or 導入したい方
 
 # `unplugin-vue2-script-setup` の紹介
 
