@@ -4,6 +4,7 @@ emoji: "📝"
 type: "tech"
 topics: ["vue", "nuxtjs"]
 published: true
+publication_name: "visasq"
 ---
 
 # ターゲット

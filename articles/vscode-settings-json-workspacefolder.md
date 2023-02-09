@@ -4,6 +4,7 @@ emoji: "📝"
 type: "tech"
 topics: ["vscode", "python"]
 published: true
+publication_name: "visasq"
 ---
 
 Python パッケージ群のインテリセンスを有効化するため、各ワークスペースの `.vscode/settings.json` へ `python.autoComplete.extraPaths`[^1] を設定していましたが、開発環境が増えると設定が億劫になってきました。
