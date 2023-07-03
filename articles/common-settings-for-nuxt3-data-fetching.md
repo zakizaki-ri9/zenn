@@ -4,6 +4,7 @@ emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nuxtjs", "nuxt3"]
 published: true
+publication_name: "visasq"
 ---
 
 `useFetch`, `useAsyncData`, `$fetch` にて `Bearer` のようなシステム共通で利用するヘッダー等を設定する方法を記載する。
